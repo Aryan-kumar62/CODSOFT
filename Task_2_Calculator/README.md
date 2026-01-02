@@ -3,6 +3,7 @@
 This is a simple command-line calculator built using Python.
 
 ## Features
+
 - Addition
 - Subtraction
 - Multiplication
@@ -10,5 +11,7 @@ This is a simple command-line calculator built using Python.
 - Handles division by zero
 
 ## How to Run
+
 ```bash
 python calculator.py
+```
